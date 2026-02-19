@@ -1,95 +1,95 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="全部",CCTV1
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229665/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="全部",CCTV1
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229968/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="全部",CCTV1
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230440/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="全部",CCTV1
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230563/1.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="全部",CCTV2
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229893/1.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="全部",CCTV2
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230359/1.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="全部",CCTV3
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230150/1.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="全部",CCTV3
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230394/1.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="全部",CCTV4
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229862/1.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="全部",CCTV4
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230489/1.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4欧洲
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="全部",CCTV4欧洲
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230530/1.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV4美洲
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="全部",CCTV4美洲
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230585/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="全部",CCTV5
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230165/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="全部",CCTV5
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230400/1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="全部",CCTV5+
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230455/1.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="全部",CCTV6
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230154/1.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="全部",CCTV6
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230451/1.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="全部",CCTV7
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229895/1.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="全部",CCTV7
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230442/1.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="全部",CCTV8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230169/1.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="全部",CCTV8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230445/1.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="全部",CCTV9
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229864/1.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="全部",CCTV9
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230330/1.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="全部",CCTV10
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229874/1.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="全部",CCTV10
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230491/1.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="全部",CCTV11
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229869/1.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="全部",CCTV11
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230444/1.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="全部",CCTV12
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229897/1.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="全部",CCTV12
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230363/1.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="全部",CCTV13
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230493/1.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="全部",CCTV14
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229868/1.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="全部",CCTV14
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230446/1.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="全部",CCTV14
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230447/1.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="全部",CCTV15
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229861/1.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="全部",CCTV15
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230495/1.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="全部",CCTV17
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229831/1.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="央视",CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="全部",CGTN
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230396/1.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="央视",CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://logo.catvod.com/CGTN.png" group-title="全部",CGTN
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229681/1.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://logo.catvod.com/CGTN西语.png" group-title="央视",CGTN西语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://logo.catvod.com/CGTN西语.png" group-title="全部",CGTN西语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230480/1.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://logo.catvod.com/CGTN西语.png" group-title="央视",CGTN西语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://logo.catvod.com/CGTN西语.png" group-title="全部",CGTN西语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230398/1.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://logo.catvod.com/CGTN法语.png" group-title="央视",CGTN法语
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://logo.catvod.com/CGTN法语.png" group-title="全部",CGTN法语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230453/1.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://logo.catvod.com/CGTN法语.png" group-title="央视",CGTN法语
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://logo.catvod.com/CGTN法语.png" group-title="全部",CGTN法语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230533/1.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="央视",CGTN俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="全部",CGTN俄语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230478/1.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="央视",CGTN俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://logo.catvod.com/CGTN俄语.png" group-title="全部",CGTN俄语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230408/1.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://logo.catvod.com/CGTN阿语.png" group-title="央视",CGTN阿语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://logo.catvod.com/CGTN阿语.png" group-title="全部",CGTN阿语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230531/1.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://logo.catvod.com/CGTN阿语.png" group-title="央视",CGTN阿语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://logo.catvod.com/CGTN阿语.png" group-title="全部",CGTN阿语
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230402/1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="全部",安徽卫视
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230505/1.m3u8
@@ -293,17 +293,17 @@ http://111.48.34.138/000000001000PLTV/88888888/224/3221230459/1.m3u8
 http://111.48.34.138/000000001000PLTV/88888888/224/3221229783/1.m3u8
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://logo.catvod.com/湖北教育.png" group-title="全部",湖北教育
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230406/1.m3u8金色学堂
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://logo.catvod.com/卡酷少儿.png" group-title="少儿",卡酷少儿
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://logo.catvod.com/卡酷少儿.png" group-title="全部",卡酷少儿
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230040/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230428/1.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="少儿",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="全部",金鹰卡通
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230345/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230468/1.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://logo.catvod.com/哈哈炫动.png" group-title="少儿",哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://logo.catvod.com/哈哈炫动.png" group-title="全部",哈哈炫动
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230578/1.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="少儿",嘉佳卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="全部",嘉佳卡通
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230580/1.m3u8
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://logo.catvod.com/新动漫.png" group-title="少儿",新动漫
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://logo.catvod.com/新动漫.png" group-title="全部",新动漫
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230487/1.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://logo.catvod.com/动漫秀场.png" group-title="少儿",动漫秀场
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://logo.catvod.com/动漫秀场.png" group-title="全部",动漫秀场
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230544/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230621/1.m3u8
-#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://logo.catvod.com/晴彩青少.png" group-title="少儿",晴彩青少
+#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://logo.catvod.com/晴彩青少.png" group-title="全部",晴彩青少
 http://111.48.34.138/000000001000PLTV/88888888/224/3221230584/1.m3u8
